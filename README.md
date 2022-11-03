@@ -1,2 +1,2 @@
 # Arduino_MuteButton
-Teams用の外部ミュートボタンをArduino Unoで作ってみようやつ
+Teams用の外部ミュートボタンをArduino Unoで作ってみようのやつ
